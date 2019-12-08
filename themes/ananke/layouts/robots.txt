@@ -1,0 +1,4 @@
+#robottiteksti Sähkönkilpailuttajalle
+User-agent: *
+Allow: /
+Sitemap: https://sahkonkilpailuttaja.fi/sitemap.xml

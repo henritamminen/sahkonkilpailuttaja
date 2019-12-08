@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/kayttoehdot/</loc>
+    <lastmod>2019-12-08T19:37:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/</loc>
+    <lastmod>2019-12-08T19:37:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/artikkelit/</loc>
+    <lastmod>2019-12-07T16:26:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkotarjous-399/</loc>
+    <lastmod>2019-12-07T16:26:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkotarjous-499/</loc>
+    <lastmod>2019-12-07T16:26:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/</loc>
+    <lastmod>2019-12-07T16:11:04+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/vertaa-sahko/</loc>
+    <lastmod>2019-12-07T15:51:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/kilpailuta-sahko/</loc>
+    <lastmod>2019-12-07T13:49:25+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkoyritykset/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/yhteydenotto/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

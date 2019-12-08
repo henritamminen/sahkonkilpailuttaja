@@ -1,0 +1,29 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between" style="padding-top:30px;">
+    <div style="padding-left:15px;" class="dn dib-ns pv2 ph3">
+        <a class="f4 fw4 hover-white no-underline white" href="{{ .Site.BaseURL }}" >
+            &copy; {{ now.Format "2006" }} {{ .Site.Title }}</a>
+          <p class="f4 fw4  no-underline white">yhteys@sahkonkilpailuttaja.fi
+          </p>
+          <p class="f4 fw4  no-underline white">Spektri Business Park Oy, Metsänneidonkuja 8, 02130 Espoo</p>
+    </div>
+  
+  <!--  <div>{{ partial "social-follow.html" . }}</div>-->
+  
+  <img loading="lazy" style="max-height:50px;align-self: auto;"src="/dmca.webp">
+    <div class="float-right white dib-ns pv2 ph3">
+        <b style="padding-left:10px;">Pikavalikko</b>
+        <ul style="list-style-type:none;padding:0;color:white;">
+        <li><a href="/kilpailuta-sahko/">Kilpailuta sähkö</a></li>
+        
+        <li><a href="/vertaa-sahko/">Vertaa sähkö</a></li>
+        
+        <li><a href="/sahkon-hintavertailu-puolueeton/">Sähkön puolueeton hintavertailu</a></li>
+      </ul>
+    </div>
+    <ul style="list-style-type:none;" class="float-right f4 fw4 hover-white no-underline white dn dib-ns pv2 ph3">
+    <li><a href="/yhteydenotto/">Yhteydenotto</a></li>
+    <li><a href="/kayttoehdot">Käyttöehdot</a></li>
+    </ul>
+  </div>
+</footer>

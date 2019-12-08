@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sähkönkilpailuttaja</title>
+    <link>https://sahkonkilpailuttaja.fi/</link>
+    <description>Recent content on Sähkönkilpailuttaja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    <lastBuildDate>Sun, 08 Dec 2019 19:37:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://sahkonkilpailuttaja.fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Käyttöehdot</title>
+      <link>https://sahkonkilpailuttaja.fi/kayttoehdot/</link>
+      <pubDate>Sun, 08 Dec 2019 19:37:24 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/kayttoehdot/</guid>
+      <description>Kumppanuusmarkkinointi sahkonkilpailuttaja.fi saa komission aina, kun vierailija siirtyy sahkonkilpailuttaja.fi-sivulta sähköyhtiön sivulle ja vaihtaa sähköliittymänsä.
+Sivullamme esitetyt väittämät ovat omia mielipiteitämme, jotka pohjautuvat kirjoitusvaiheessa tehtyihin tutkimuksiin.</description>
+    </item>
+    
+    <item>
+      <title>Sähkötarjous 3.99€ - Tartu parhaimpaan tarjoukseen!</title>
+      <link>https://sahkonkilpailuttaja.fi/sahkotarjous-399/</link>
+      <pubDate>Sat, 07 Dec 2019 16:26:09 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/sahkotarjous-399/</guid>
+      <description>Sähkötarjous 3,99 € – Tartu parhaimpaan tarjoukseen! Oletko etsimässä 3,99 € / kk maksavaa sähkötarjousta?</description>
+    </item>
+    
+    <item>
+      <title>Sähkötarjous 4.99€ - Tartu parhaimpaan tarjoukseen!</title>
+      <link>https://sahkonkilpailuttaja.fi/sahkotarjous-499/</link>
+      <pubDate>Sat, 07 Dec 2019 16:26:09 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/sahkotarjous-499/</guid>
+      <description>Sähkötarjous 4,99 € – Tartu parhaimpaan tarjoukseen! Oletko etsimässä 4,99 € / kk maksavaa sähkötarjousta?</description>
+    </item>
+    
+    <item>
+      <title>Sähkön Puolueeton Hintavertailu - Halvimmat hinnat</title>
+      <link>https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/</link>
+      <pubDate>Sat, 07 Dec 2019 16:11:04 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/sahkon-hintavertailu-puolueeton/</guid>
+      <description>Sähkön Puolueeton Hintavertailu Sähkön puolueeton hintavertailu ei ole ikinä ollut helpompaa. Alla olevasta vaihtoehdoista voit vertailla tämän hetken uusimpia sähkötarjouksia.</description>
+    </item>
+    
+    <item>
+      <title>Vertaa Sähkö - Uusi sähkösopimus hetkessä!</title>
+      <link>https://sahkonkilpailuttaja.fi/vertaa-sahko/</link>
+      <pubDate>Sat, 07 Dec 2019 15:51:34 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/vertaa-sahko/</guid>
+      <description>Vertaa sähkö - Uusi sähkösopimus hetkessä! Vertaamalla sähkösi useiden eri toimijoiden välillä voit säästää sähkön hinnassa paljon.</description>
+    </item>
+    
+    <item>
+      <title>Kilpailuta Sähkö - Valitse sähkötarjouksista paras</title>
+      <link>https://sahkonkilpailuttaja.fi/kilpailuta-sahko/</link>
+      <pubDate>Sat, 07 Dec 2019 13:49:25 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/kilpailuta-sahko/</guid>
+      <description>Kilpailuta sähkö – Se kannattaa Kilpailuta sähkösi Sähkömittarissa!  Suurin syy, miksi sähkö kannattaa kilpailuttaa on, että siinä voi oikeasti säästää rahaa.</description>
+    </item>
+    
+    <item>
+      <title>Yhteydenotto</title>
+      <link>https://sahkonkilpailuttaja.fi/yhteydenotto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/yhteydenotto/</guid>
+      <description>Voit ottaa meihin yhteyttä alla olevan lomakkeen kautta. Voit esimerkiksi laittaa meille viestiä parannusehdotuksista!
+Nimi Sähköposti Sähköpostiosoite on pakollinen  Viestisi   </description>
+    </item>
+    
+  </channel>
+</rss>
