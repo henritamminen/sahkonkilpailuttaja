@@ -30,8 +30,7 @@ Vakio L: Hinta 30€/kk. Hyvä vaihtoehto suurelle kerrostaloasunnolle sekä kes
 
 #### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
 {{< fortum_vakaa_kuva >}}
-
-
+Tietoja:
 <ul>
 <li>Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.</li>
 <li>Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.</li>
@@ -51,7 +50,6 @@ Puolueettomia ajatuksia Fortumista: Kaikki Fortumin Vakio -sopimukset ovat toist
 ### Puolueeton arvostelu: Kotimaan Energia
 
 {{< kme-kuva >}}
-
 
 Kotimaan Energia on Suomalainen, kilpailukykyseen hintaan sähköä tarjoava yhtiö. Heiltä on mahdollista saada 100-prosenttisesti uusiutuvalla energialla tuotettua sähköä. Kotimaan Energialla on tällä hetkellä käynnissä Gigantin kanssa yhteistyö, jossa uuden sopimuksen tekevälle on tarjolla 50€ lahjakortti Giganttiin! Diilissä on monia hyviä ja verrattaen kilpailukykyisiä lisiä.
 

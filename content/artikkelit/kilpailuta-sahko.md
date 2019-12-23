@@ -21,6 +21,7 @@ Seuraavaksi tämän hetken parhaat tarjoukset:
 
 ### 1. Kilpailuta Fortumin sähkö
 {{< fortum-kuva >}}
+Tietoja:
 
 <ul>
 <li>Ensimmäinen kuukausi ilmaiseksi!</li>
@@ -43,6 +44,7 @@ Fortumin sopimusten hinnoittelu menee siis näin:
 
 #### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
 {{< fortum_vakaa_kuva >}}
+Tietoja:
 
 
 <ul>
@@ -60,7 +62,7 @@ Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varma
 ### 2. Kilpailuta Kotimaan Energian sähkö
 
 {{< kme-kuva >}}
-
+Tietoja:
 <ul>
 <li>Solmi sopimus ja saat 50€ lahjakortin Giganttiin!</li>
 <li><b>Perusmaksu 3,99 €/kk</b></li>
@@ -73,6 +75,7 @@ Kotimaan Energian sähkö-tarjouksessa mukavaa on, että pääset valitsemaan en
 
 <h3>3. SähköMittari.fi kilpailuttaa sähkön silmän räpäyksessä</h3>
 {{< sahkomittari-kuva >}}
+Tietoja:
 <ul>
 <li>Helppo keino kilpailuttaa sähkö kaikkien sähköyritysten välillä
 </li>
