@@ -24,13 +24,24 @@
         
 
       {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+      <div class="brands">
+          <img loading="lazy" src="/fortum_logo.png" alt="Fortum">
+          <img loading="lazy" src="/kme_logo.png" alt="KME">
+          <img loading="lazy" src="/vantaan_energia_logo.png" alt="Vantaan Enegia">
+          <img loading="lazy" src="/caruna_logo.png"  alt="Caruna">
+          <img loading="lazy" src="/nge_logo.png" alt="Nordic Green Energy">
+      </div>
+
+      <div>
+        <br>
+        <br>
           <p>Me sähkönkilpailuttaja.fi:llä haluamme auttaa suomalaisia yksityishenkilöitä löytämään parhaat sähkötarjoukset; pyrimme etsimään kaikki mahdolliset diilit saatavillesi.</p>
           <p>Löydät uusimmat tarjoukset ja edut sivulta: <a href="/kilpailuta-sahko">kilpailuta sähkö</a>.</p>
           <p>Voit myös vertailla eri sähköyhtiöiden tarjouksia täällä: <a href="/vertaa-sahko">vertaa sähkö</a>.</p>
           <p>Mahdollisuutena on myös katsella <a href="/sahkon-hintavertailu-puolueeton">sähkön puolueeton hintavertailu</a> -sivua.</p>
           <p>Useilla sähkötarjoajalla on tällä hetkellä hyviä tarjouksia menossa. Nämä tarjoukset eivät kestä loputtomiin, vaan loppuvat yleensä joidenkin kuukausien aikana. Kannattaa siis mahdollisimman nopeasti tarttua niihin kiinni, ettei tarjoukset mene sivu suun. 
             Valitse yllä olevista vaihtoehdoista oikea ja löydä itsellesi herkullinen ja edullinen tarjous!</p>
-      
+          </div>
 
       {{ if ge $section_count (add $n_posts 1) }}
       <section class="w-100">

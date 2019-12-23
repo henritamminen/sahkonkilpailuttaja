@@ -20,6 +20,24 @@ Fortum on suuri Suomessa toimiva sähköntarjoaja, jolla on sähkösopimuksia jo
 - M-sopimus: Asunnoille, joiden pinta-ala on 45-74 m^2. Hintana 21€/kk, maksimivuosikulutuksella 3000 kWh.
 - L-sopimus: Asunnoille, joiden pinta-ala on 75-80 m^2. Hinta 30€/kk, maksimivuosikulutuksella 5000 kWh.
 
+{{< fortum-tarjous >}}
+
+
+#### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
+{{< fortum_vakaa_kuva >}}
+
+
+<ul>
+<li>Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.</li>
+<li>Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.</li>
+<li>Puhdasta energiaa: Aina hiilidioksiditonta sähköä, joka ei lisää CO2-päästöjä</li>
+<li>Helppo vaihto: Vaihdat sähkösopimuksen helposti, kaikkialle Suomeen.</li>
+<li>Luotettava: Fortum on valittu Suomen luotetuimmaksi sähköyhtiöksi 12 kertaa peräkkäin.</li>
+</ul>
+
+{{< fortum_vakaa_tarjous >}}
+
+
 Nämä Fortumin sopimukset ovat erittäin hyviä, sillä tulet tietämään tasan tarkkaan mitä maksat sähköstäsi, etkä joudu arvuuttelemaan aina kuukausittain, minkä kokoinen sähkölasku sieltä taas tulee.
 Muita hyviä puolia: Kaikkiin sopimuksiin kuuluu ensimmäinen kuukausi veloituksetta, sekä se, että sähkö on 100% vesisähköä
 

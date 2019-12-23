@@ -39,9 +39,23 @@ Fortumin sopimusten hinnoittelu menee siis näin:
 <li>Tilaa L (75-80 m2) 30 €/kk</li>
 </ul>
 
-Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varmasti tietämään, kuinka paljon sähkösi tulee maksamaan. Heidän tarjouksensa kuuluu parhaimpiin, jos asuntosi sijoittuu hyvin heidän tarjoamaan asunnon koon haarukkaan (Alle 80 neliötä). Voisin suositella, että kilpailuta sähkö siis heillä, jos asuntosi koko on sopiva ja haluat joustavan sopimuksen. Jos asuntosi koko on yli 80 neliötä, kannattaa lähettää Fortumille kysely, millaista pakettia he voivat tässä tapauksessa tarjota.
-
 {{< fortum-tarjous >}}
+
+#### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
+{{< fortum_vakaa_kuva >}}
+
+
+<ul>
+<li>Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.</li>
+<li>Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.</li>
+<li>Puhdasta energiaa: Aina hiilidioksiditonta sähköä, joka ei lisää CO2-päästöjä</li>
+<li>Helppo vaihto: Vaihdat sähkösopimuksen helposti, kaikkialle Suomeen.</li>
+<li>Luotettava: Fortum on valittu Suomen luotetuimmaksi sähköyhtiöksi 12 kertaa peräkkäin.</li>
+</ul>
+
+{{< fortum_vakaa_tarjous >}}
+
+Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varmasti tietämään, kuinka paljon sähkösi tulee maksamaan. Heidän tarjouksensa kuuluu parhaimpiin, jos asuntosi sijoittuu hyvin heidän tarjoamaan asunnon koon haarukkaan (Alle 80 neliötä). Voisin suositella, että kilpailuta sähkö siis heillä, jos asuntosi koko on sopiva ja haluat joustavan sopimuksen. Jos asuntosi koko on yli 80 neliötä, kannattaa lähettää Fortumille kysely, millaista pakettia he voivat tässä tapauksessa tarjota.
 
 ### 2. Kilpailuta Kotimaan Energian sähkö
 
@@ -138,3 +152,5 @@ Jos sinulle tulee ongelmia vastaan prosessin aikana, ole ensiksi yhteydessä sä
 {{< fortum-tarjous >}}
 {{< kotimaan-energia-tarjous >}}
 {{< sahkomittari-tarjous >}}
+{{< fortum_vakaa_tarjous >}}
+

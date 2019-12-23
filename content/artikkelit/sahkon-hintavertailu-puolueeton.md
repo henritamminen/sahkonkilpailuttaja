@@ -25,10 +25,28 @@ Vakio S: Hinta 16€/kk. Paras vaihtoehto, jos asut kerrostaloasunnossa. Tässä
 Vakio M: Hinta 21€/kk. Toimiva vaihtoehto, jos asut suuremmassa kerrostaloasunnossa tai pienessä pari- / rivitalossa. Vuodessa saat kuluttaa maksimissaan 3000 kWh vuodessa.
 Vakio L: Hinta 30€/kk. Hyvä vaihtoehto suurelle kerrostaloasunnolle sekä keskikokoiselle rivi- tai pariasunnolle. Kulutus tässä sopimuksessa saa olla maksimissaan 5000 kWh vuodessa.
 
+{{< fortum-tarjous >}}
+
+
+#### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
+{{< fortum_vakaa_kuva >}}
+
+
+<ul>
+<li>Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.</li>
+<li>Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.</li>
+<li>Puhdasta energiaa: Aina hiilidioksiditonta sähköä, joka ei lisää CO2-päästöjä</li>
+<li>Helppo vaihto: Vaihdat sähkösopimuksen helposti, kaikkialle Suomeen.</li>
+<li>Luotettava: Fortum on valittu Suomen luotetuimmaksi sähköyhtiöksi 12 kertaa peräkkäin.</li>
+</ul>
+
+{{< fortum_vakaa_tarjous >}}
+
 Puolueettomia ajatuksia Fortumista: Kaikki Fortumin Vakio -sopimukset ovat toistaiseksi voimassa olevia, eli sinun on helppo lopettaa tai vaihtaa pois tällainen sopimus, jos mieli niin tekee. Vakio -sopimuksissa on myös erittäin helppo hinnoittelu, eikä sinun tarvitse huolehtia tuleeko sähkölasku kasvamaan, kunhan olet pysynyt käyttörajojen sisällä. Fortumin välittämän sähkön alkuperä on 100% hiilidioksidivapaata, sähkön alkuperänä vesi- ja tuulienergia.
 
 <strong>Muista myös, että Fortumin sähkösopimuksiin kuuluu ilmainen ensimmäinen kuukausi!</strong>
-{{< fortum-tarjous >}}
+
+
 
 ### Puolueeton arvostelu: Kotimaan Energia
 

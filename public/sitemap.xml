@@ -3,22 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sahkonkilpailuttaja.fi/kayttoehdot/</loc>
-    <lastmod>2019-12-08T19:37:24+02:00</lastmod>
+    <loc>https://sahkonkilpailuttaja.fi/sahkoyritykset/kotimaan-energian-sahkotarjoukset/</loc>
+    <lastmod>2019-12-23T17:23:44+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sahkonkilpailuttaja.fi/</loc>
-    <lastmod>2019-12-08T19:37:24+02:00</lastmod>
+    <lastmod>2019-12-23T17:23:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkoyritykset/</loc>
+    <lastmod>2019-12-23T17:23:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkoyritykset/fortum-sahkotarjoukset/</loc>
+    <lastmod>2019-12-23T17:15:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sahkonkilpailuttaja.fi/artikkelit/</loc>
-    <lastmod>2019-12-07T16:26:09+02:00</lastmod>
+    <lastmod>2019-12-23T17:08:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/sahkotarjous/</loc>
+    <lastmod>2019-12-23T17:08:44+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/kilpailuta-sahkosopimus/</loc>
+    <lastmod>2019-12-23T17:03:35+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/halvin-sahko/</loc>
+    <lastmod>2019-12-23T16:55:53+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sahkonkilpailuttaja.fi/kayttoehdot/</loc>
+    <lastmod>2019-12-08T19:37:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -54,12 +96,6 @@
   <url>
     <loc>https://sahkonkilpailuttaja.fi/kilpailuta-sahko/</loc>
     <lastmod>2019-12-07T13:49:25+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sahkonkilpailuttaja.fi/sahkoyritykset/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

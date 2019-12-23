@@ -6,10 +6,37 @@
     <description>Recent content in Artikkelit on Sähkönkilpailuttaja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
-    <lastBuildDate>Sat, 07 Dec 2019 16:26:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 17:08:44 +0200</lastBuildDate>
     
 	<atom:link href="https://sahkonkilpailuttaja.fi/artikkelit/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sähkötarjous</title>
+      <link>https://sahkonkilpailuttaja.fi/sahkotarjous/</link>
+      <pubDate>Mon, 23 Dec 2019 17:08:44 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/sahkotarjous/</guid>
+      <description>Sähkötarjous Tältä sivulta löydät kaikki uusimmat sähkötarjoukset. Kun on aika etsiä uusi sähkötarjous, ei asia ole ihan niin yksinkertainen, vaan sähkön hinta kannattaa yleensä kilpailuttaa.</description>
+    </item>
+    
+    <item>
+      <title>Kilpailuta Sähkösopimus</title>
+      <link>https://sahkonkilpailuttaja.fi/kilpailuta-sahkosopimus/</link>
+      <pubDate>Mon, 23 Dec 2019 17:03:35 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/kilpailuta-sahkosopimus/</guid>
+      <description>Kilpailuta sähkösopimus Kilpailuta sähkösi ilmaiseksi Sähkömittarissa!  Oletko sähköä vailla? Vaikka sähkösopimus kannattaakin olla tehty hyvissä ajoin, malta kuitenkin hetki ennen lopullisen sopimuksen tekoa ja  kilpailuta sähkösopimus.</description>
+    </item>
+    
+    <item>
+      <title>Halvin Sähko 2020</title>
+      <link>https://sahkonkilpailuttaja.fi/halvin-sahko/</link>
+      <pubDate>Mon, 23 Dec 2019 16:55:53 +0200</pubDate>
+      
+      <guid>https://sahkonkilpailuttaja.fi/halvin-sahko/</guid>
+      <description>Halvin sähkö 2020 Sähkö on aihe, joka koskee kaikkia suomalaisia. Sähkösopimus solmitaan muutettaessa uuteen asuntoon tai uusi sopimus voidaan tehdä myös edullisemman hinnan vuoksi.</description>
+    </item>
     
     <item>
       <title>Sähkötarjous 3.99€ - Tartu parhaimpaan tarjoukseen!</title>
@@ -53,7 +80,7 @@
       <pubDate>Sat, 07 Dec 2019 13:49:25 +0200</pubDate>
       
       <guid>https://sahkonkilpailuttaja.fi/kilpailuta-sahko/</guid>
-      <description>Kilpailuta sähkö – Se kannattaa Kilpailuta sähkösi Sähkömittarissa!  Suurin syy, miksi sähkö kannattaa kilpailuttaa on, että siinä voi oikeasti säästää rahaa.</description>
+      <description>Kilpailuta sähkö – Se kannattaa Kilpailuta sähkösi ilmaiseksi Sähkömittarissa!  Suurin syy, miksi sähkö kannattaa kilpailuttaa on, että siinä voi oikeasti säästää rahaa.</description>
     </item>
     
   </channel>
