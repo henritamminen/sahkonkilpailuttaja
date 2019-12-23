@@ -1,5 +1,5 @@
 ---
-title: "Halvin Sähko 2020"
+title: "Halvin Sähkö 2020"
 date: 2019-12-23T16:55:53+02:00
 draft: false
 description: ""
