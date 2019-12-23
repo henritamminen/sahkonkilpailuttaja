@@ -25,15 +25,14 @@ Fortum on suuri Suomessa toimiva sähköntarjoaja, jolla on sähkösopimuksia jo
 
 #### Fortumilta tuli hiljattain myös uusi tarjous: Fortum Vakaa: 
 {{< fortum_vakaa_kuva >}}
+Tietoja Fortum vakaasta: 
 
+- Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.
+- Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.
+- Puhdasta energiaa: Aina hiilidioksiditonta sähköä, joka ei lisää CO2-päästöjä
+- Helppo vaihto: Vaihdat sähkösopimuksen helposti, kaikkialle Suomeen.
+- Luotettava: Fortum on valittu Suomen luotetuimmaksi sähköyhtiöksi 12 kertaa peräkkäin.
 
-<ul>
-<li>Edullinen: Saat ensimmäiset kuusi kuukautta ilman perusmaksuja.</li>
-<li>Vakaa hinta: Hinta päivittyy säännöllisesti puolivuosittain.</li>
-<li>Puhdasta energiaa: Aina hiilidioksiditonta sähköä, joka ei lisää CO2-päästöjä</li>
-<li>Helppo vaihto: Vaihdat sähkösopimuksen helposti, kaikkialle Suomeen.</li>
-<li>Luotettava: Fortum on valittu Suomen luotetuimmaksi sähköyhtiöksi 12 kertaa peräkkäin.</li>
-</ul>
 
 {{< fortum_vakaa_tarjous >}}
 
