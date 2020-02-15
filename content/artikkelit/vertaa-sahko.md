@@ -59,15 +59,19 @@ Muita kampanjan tietoja:
 
 <dfn>Uusi sähkösopimus hetkessä!</dfn>
 
-### Mitä tulee ottaa huomioon vertaillessa sähköä?
+### 🔌 3,99€ ja 4,99€ sähkötarjoukset?
+
+Kyllä! Käy katsomassa nämä sivut: <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-399/">sähkötarjous 3,99€</a> ja <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-499/">sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja kilpailutus-koneellamme!
+
+### 🔌 Mitä tulee ottaa huomioon vertaillessa sähköä?
 
 Sähköä voi Suomessa vertailla ilmaiseksi jokaisen sähköntarjoajan välillä. On täysin ilmaista vaihtaa ja tehdä uusi sähkösopimus uuden sähköntarjoajan kanssa.
 Tosin tässä kannattaa olla tarkkana, onko nykyinen sopimuksesi määräaikainen vaiko toistaiseksi voimassa oleva. <strong>Vertaa sähkö siis huolella!</strong>
 Jos kyseessä on määräaikainen sähkösopimus, lienee parasta odottaa sen loppumiseen ennen kuin alkaa etsimään uutta sähkön tarjoajaa. Jos taas sinulla on toistaiseksi voimassa oleva sopimus, on uuden vaihtaminen paljon helpompaa.
 
-### Mitä siis sähkön hinnasta voi vertailla?
+### 🔌 Mitä siis sähkön hinnasta voi vertailla?
 
-Vertaa sähkö aina vain parhaiden sähkötarjousten kesken. Sähkölaskusi vetailu koostuu kolmesta osasta: Sähköenergian hinnasta (40-50%), siirtopalvelun hinnasta (35%) sekä veroista. Vertaamalla eri sähkösopimuksia voit vaikuttaa näistä kolmesta osasta ensimmäiseen, eli sähköenergian hintaan. Käy katsomassa nämä sivut: sähkötarjous 4,99 ja sähkötarjous 3,99
+Vertaa sähkö aina vain parhaiden sähkötarjousten kesken. Sähkölaskusi vetailu koostuu kolmesta osasta: Sähköenergian hinnasta (40-50%), siirtopalvelun hinnasta (35%) sekä veroista. Vertaamalla eri sähkösopimuksia voit vaikuttaa näistä kolmesta osasta ensimmäiseen, eli sähköenergian hintaan. 
 
 Voit siis vertailla sähköä seuraavien tarjousten välillä: 
 
@@ -75,6 +79,36 @@ Voit siis vertailla sähköä seuraavien tarjousten välillä:
 {{< kotimaan-energia-tarjous >}}
 {{< sahkomittari-tarjous >}}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "&#128268 3,99€ ja 4,99€ sähkötarjoukset?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Kyllä! Käy katsomassa nämä sivut: <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-399/">sähkötarjous 3,99€</a> ja <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-499/">sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja kilpailutus-koneellamme!"
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Mitä tulee ottaa huomioon vertaillessa sähköä?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sähköä voi Suomessa vertailla ilmaiseksi jokaisen sähköntarjoajan välillä. On täysin ilmaista vaihtaa ja tehdä uusi sähkösopimus uuden sähköntarjoajan kanssa.
+Tosin tässä kannattaa olla tarkkana, onko nykyinen sopimuksesi määräaikainen vaiko toistaiseksi voimassa oleva. <strong>Vertaa sähkö siis huolella!</strong>
+Jos kyseessä on määräaikainen sähkösopimus, lienee parasta odottaa sen loppumiseen ennen kuin alkaa etsimään uutta sähkön tarjoajaa. Jos taas sinulla on toistaiseksi voimassa oleva sopimus, on uuden vaihtaminen paljon helpompaa."
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Mitä siis sähkön hinnasta voi vertailla?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Vertaa sähkö aina vain parhaiden sähkötarjousten kesken. Sähkölaskusi vetailu koostuu kolmesta osasta: Sähköenergian hinnasta (40-50%), siirtopalvelun hinnasta (35%) sekä veroista. Vertaamalla eri sähkösopimuksia voit vaikuttaa näistä kolmesta osasta ensimmäiseen, eli sähköenergian hintaan."
+    }
+  }]
+}
+</script>
 
 
 
