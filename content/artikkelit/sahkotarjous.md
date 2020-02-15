@@ -4,7 +4,7 @@ date: 2019-12-23T17:08:44+02:00
 draft: false
 description: ""
 ---
-
+{{< sahkomittari-tarjous >}}
 # Sähkötarjous
 
 <b>Tältä sivulta löydät kaikki uusimmat sähkötarjoukset</b>. Kun on aika etsiä uusi sähkötarjous, ei asia ole ihan niin yksinkertainen, vaan sähkön hinta kannattaa yleensä kilpailuttaa. Ensin löydetty <strong>sähkötarjous</strong> ei nimittäin aina ole se paras vaihtoehto, sillä muualta saattaa löytyä edullisempi sähkötarjous. Myös ekologisuus on asia, joka on nykyaikana otettu entistä paremmin huomioon sähköä tarjottaessa, joten vaihtoehdot kannattaa käydä läpi.

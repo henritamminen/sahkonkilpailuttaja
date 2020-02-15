@@ -4,7 +4,7 @@ date: 2019-12-07T16:11:04+02:00
 draft: false
 description: "Hintavertailua nopeasti"
 ---
-
+{{< sahkomittari-tarjous >}}
 # Sähkön Puolueeton Hintavertailu
 
 Sähkön puolueeton hintavertailu ei ole ikinä ollut helpompaa. Alla olevasta vaihtoehdoista voit vertailla tämän hetken uusimpia sähkötarjouksia. Löydät rullatessasi hieman alemmas kaikki tiedot tarjouksista, joita tarvitset puolueettomaan hintavertailuun.
