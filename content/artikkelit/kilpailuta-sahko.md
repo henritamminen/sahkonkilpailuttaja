@@ -132,19 +132,19 @@ Muutamia keinoja pienentää sähköntarvetta omassa kodissaan, ilman, että kil
 - Tavallisten hehkulamppujen vaihtaminen led-lamppuihin. Jo tällä vaihdolla voi saada huimasti laskua sähkön kulutukseen ja sähkölaskuun!
 - Kannattaa ostaa ainoastaan A++-energiamerkinnällä vastustettuja kodinkoneita; nämä ovat kaikista säästäväisimpiä!
 
-#### Maksaako, jos kilpailutan sähköni?
+<h4> 🔌 Maksaako, jos kilpailutan sähköni?</h4>
 Ei maksa. On täysin ilmaista kilpailuttaa sähkö. Pidä kuitenkin mielessä, että jos vanha sopimuksesi on vielä määräaikaisesti voimassa, et voi vaihtaa sähköntarjoajaa. Toisaalta jos edellinen sopimuksesi on toistaiseksi voimassa oleva, voit vaihtaa tarjoajaa paljon vapaammin.
 
-#### Mitä teen kilpailutuksen jälkeen? Kilpailuta sähkö siis täysin ilmaiseksi.
+<h4> 🔌 Mitä teen kilpailutuksen jälkeen? Kilpailuta sähkö siis täysin ilmaiseksi.</h4>
 Sinun ei itse tarvitse tehdä mitään. Uusi sähköntarjoaja hoitaa kaikki käytännön asiat liittyen sähkösopimuksen vaihtamiseen ja vanhan sähkösopimuksen irtisanomiseen.
 
-#### Voiko kilpailutetun sähkösopimuksen hinta muuttua?
+<h4> 🔌 Voiko kilpailutetun sähkösopimuksen hinta muuttua?</h4>
 Toistaiseksi voimassa olevan sopimuksen sähkön kilpailutus hinta voi muuttua sähkömarkkinalain putteissa. Toisaalta määräaikaisessa sopimuksessa sovittua hintaa ei voida muuttaa sähkösopimuskauden aikana.
 
-#### Mitä oikeuksia minulla kilpailutuksen suhteen on kuluttajana?
+<h4> 🔌 Mitä oikeuksia minulla kilpailutuksen suhteen on kuluttajana?</h4>
 Oikeuksiisi kuuluu liittyä haluamaasi sähköverkkoon, valita ja vaihtaa sähköntarjoajaa, saada tieto siitä, mistä laskuusi tuleva sähkönhinta koostuu ja mikä on sähkön alkuperä.
 
-#### Mitä jos kilpailutuksessa tulee ongelmia?
+<h4> 🔌 Mitä jos kilpailutuksessa tulee ongelmia?</h4>
 Jos sinulle tulee ongelmia vastaan prosessin aikana, ole ensiksi yhteydessä sähköntarjoajaan, jonka kanssa ongelmia on ilmaantunut. Jos tämä ei auta, voit olla yhteydessä kuluttajaneuvontaan sekä kuluttajariitalautakuntaan.
 
 <h2><dfn>Mitä odotat? Kilpailuta sähkö ja säästä rahaa!</dfn></h2>
@@ -154,4 +154,47 @@ Jos sinulle tulee ongelmia vastaan prosessin aikana, ole ensiksi yhteydessä sä
 {{< kotimaan-energia-tarjous >}}
 {{< sahkomittari-tarjous >}}
 {{< fortum_vakaa_tarjous >}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "&#128268 Maksaako, jos kilpailutan sähköni?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ei maksa. On täysin ilmaista kilpailuttaa sähkö. Pidä kuitenkin mielessä, että jos vanha sopimuksesi on vielä määräaikaisesti voimassa, et voi vaihtaa sähköntarjoajaa. Toisaalta jos edellinen sopimuksesi on toistaiseksi voimassa oleva, voit vaihtaa tarjoajaa paljon vapaammin."
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Mitä teen kilpailutuksen jälkeen? Kilpailuta sähkö siis täysin ilmaiseksi.",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sinun ei itse tarvitse tehdä mitään. Uusi sähköntarjoaja hoitaa kaikki käytännön asiat liittyen sähkösopimuksen vaihtamiseen ja vanhan sähkösopimuksen irtisanomiseen."
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Voiko kilpailutetun sähkösopimuksen hinta muuttua?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Toistaiseksi voimassa olevan sopimuksen sähkön kilpailutus hinta voi muuttua sähkömarkkinalain putteissa. Toisaalta määräaikaisessa sopimuksessa sovittua hintaa ei voida muuttaa sähkösopimuskauden aikana."
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Mitä oikeuksia minulla kilpailutuksen suhteen on kuluttajana?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Oikeuksiisi kuuluu liittyä haluamaasi sähköverkkoon, valita ja vaihtaa sähköntarjoajaa, saada tieto siitä, mistä laskuusi tuleva sähkönhinta koostuu ja mikä on sähkön alkuperä."
+    }
+  },{
+    "@type": "Question",
+    "name": "&#128268 Mitä jos kilpailutuksessa tulee ongelmia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Jos sinulle tulee ongelmia vastaan prosessin aikana, ole ensiksi yhteydessä sähköntarjoajaan, jonka kanssa ongelmia on ilmaantunut. Jos tämä ei auta, voit olla yhteydessä kuluttajaneuvontaan sekä kuluttajariitalautakuntaan."
+    }
+  }]
+}
+</script>
 
