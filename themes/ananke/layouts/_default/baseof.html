@@ -10,21 +10,40 @@
     <meta name="google-site-verification" content="_f-2ZW21AFHiyYTPKwK7aFOCGAcphaEhdNf8x5UTU6Y" />
     <script type="application/ld+json">
       {
-        "@context": "http://schema.org",
-        "@type": "NGO",
-        "name": "Sähkön Kilpailuttaja",
-        "url": "https://sahkonkilpailuttaja.fi/",
-        "logo": "https://sahkonkilpailuttaja.fi/logo.webp",
-        "sameAs": [
-          "https://www.facebook.com/S%C3%A4hk%C3%B6n-Kilpailuttaja-2016711001752505",
-          "https://goo.gl/maps/jPs8v8dJCwC2",
-          "https://www.youtube.com/channel/UCLhmO8vZR3ChBpKMbCcWkcA/about",
-          "https://www.linkedin.com/company/sahkon-kilpailuttaja/",
-          "https://www.pinterest.com/sahkonkilpailuttaja/",
-          "https://soundcloud.com/saehkoen-kilpailuttaja",
-          "https://vimeo.com/sahkonkilpailuttaja",
-          "https://trello.com/sahkonkilpailuttaja",
-          "https://mix.com/sahkonkilpailuttaja"
+        "@context": "https://schema.org/",
+        "@graph": [
+        {
+        "@type": "BreadcrumbList", 
+        "itemListElement": [{
+          "@type": "ListItem", 
+          "position": 1, 
+          "name": "Sähkönkilpailuttaja",
+          "item": "{{ .Site.BaseURL }}"  
+        },{
+          "@type": "ListItem", 
+          "position": 2, 
+          "name": "U+26A1 {{ .Title }} U+26A1",
+          "item": "{{ .Permalink }}"  
+        }]
+        },
+        {
+              "@context": "http://schema.org",
+              "@type": "NGO",
+              "name": "Sähkön Kilpailuttaja",
+              "url": "https://sahkonkilpailuttaja.fi/",
+              "logo": "https://sahkonkilpailuttaja.fi/logo.webp",
+              "sameAs": [
+                "https://www.facebook.com/S%C3%A4hk%C3%B6n-Kilpailuttaja-2016711001752505",
+                "https://goo.gl/maps/jPs8v8dJCwC2",
+                "https://www.youtube.com/channel/UCLhmO8vZR3ChBpKMbCcWkcA/about",
+                "https://www.linkedin.com/company/sahkon-kilpailuttaja/",
+                "https://www.pinterest.com/sahkonkilpailuttaja/",
+                "https://soundcloud.com/saehkoen-kilpailuttaja",
+                "https://vimeo.com/sahkonkilpailuttaja",
+                "https://trello.com/sahkonkilpailuttaja",
+                "https://mix.com/sahkonkilpailuttaja"
+              ]
+            }
         ]
       }
       </script>
