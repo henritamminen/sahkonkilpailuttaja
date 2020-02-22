@@ -15,7 +15,7 @@ Alla tämän hetken halvimmat sähkösopimukset (<strong>klikkaa kuvaa, pääset
 
 ## Parhaan sähkönhinnan löytäminen
 
-Avain parhaimman hinnan löytämiseksi on kilpailutus, se yleensä takaa parhaan hinnan. Sähkösopimus kannattaa kilpailuttaa yleensä, jotta löydät tämän hetken edullisimman tarjouksen. Tuttu ja turvallinen, ennenkin käytössä ollut sähköyhtiö, voi hyvinkin jäädä kakkoseksi vuoden 2020 hintatarjousten kanssa. Ei siis kannata sokeasti luottaa vanhaan ja tuttuun, vaan hintojen vertailu kannattaa aina.
+<a href="https://sahkonkilpailuttaja.fi/kilpailuta-sahko/">Kilpailuta sähkö</a>: Avain parhaimman hinnan löytämiseksi on kilpailutus, se yleensä takaa parhaan hinnan. Sähkösopimus kannattaa kilpailuttaa yleensä, jotta löydät tämän hetken edullisimman tarjouksen. Tuttu ja turvallinen, ennenkin käytössä ollut sähköyhtiö, voi hyvinkin jäädä kakkoseksi vuoden 2020 hintatarjousten kanssa. Ei siis kannata sokeasti luottaa vanhaan ja tuttuun, vaan hintojen vertailu kannattaa aina.
 
 Kilpailuttamisen voi suorittaa esimerkiksi <a href="http://bit.ly/sahkomittari">sähkömittari.fi -palvelussa.</a> Sivusto tarjoaa eri sähköyhtiöiden sopimukset aina edullisimpaan hintaan. Sopimus voidaan tehdä suoraan palvelun kautta, jolloin sähkösopimus tehdään asiakkaan ja sähköyhtiön välille. Sivustolta voi etsiä juuri omien kriteerien mukaisia sähkösopimuksia ja antamalla oman vuosittaisen sähkönkulutuksen arvion, osaa sivusto valita juuri sopivat vaihtoehdot.
 

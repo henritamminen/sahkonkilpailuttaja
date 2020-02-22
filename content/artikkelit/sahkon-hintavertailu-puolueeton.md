@@ -63,7 +63,7 @@ Hieman eroavaisuuksia esimerkiksi Fortumin diiliin on, että Kotimaan Energialla
 
 ## Oletko lukenut muiden nettisivujen sähkön hintavertailuja?
 
-Google vaikuttaa olevan täynnä puolueettomia sähkön vertailu -sivustoja. Kuitenkaan aika harva näistä on täysin puolueeton, vaan tarjousten järjestyksellä on yleensä jonkin sortin rahallinen motiivi. Ehkä ensimmäisenä oleva sähkönmyyntiyhtiö tarjoaa eniten rahaa uudesta asiakkaasta. Tai joidenkin sivustojen omistajilla voi olla suoria yhteyksiä heidän eniten promoamiin yrityksiin.
+Google vaikuttaa olevan täynnä puolueettomia sähkön vertailu -sivustoja, joissa voi <a href="https://sahkonkilpailuttaja.fi/kilpailuta-sahko/">kilpailuttaa sähkö</a>. Kuitenkaan aika harva näistä on täysin puolueeton, vaan tarjousten järjestyksellä on yleensä jonkin sortin rahallinen motiivi. Ehkä ensimmäisenä oleva sähkönmyyntiyhtiö tarjoaa eniten rahaa uudesta asiakkaasta. Tai joidenkin sivustojen omistajilla voi olla suoria yhteyksiä heidän eniten promoamiin yrityksiin.
 Tämän vuoksi on tärkeää ottaa selvää sivuston laadusta ja siitä, ajaako se ihan puolueettomasti asiaansa. Tältä kyseiseltä sivulta voit ainakin löytää hyviä mielipiteitä eri sähköyhtiöistä ja niiden tarjouksista. Tekstit ovat kirjoitettu mahdollisimman puolueettomasti, mutta tottakai jokaisella on aina entuudestaan tiettyjä ennakkoluuloja ja arvoja, jotka heijastuvat heidän kirjoittamaan tekstiinsä. Toivottavasti täällä ei ole käynyt liian vahvasti niin!
 
 ## Mistä puolueeton hintavertailu syntyy?

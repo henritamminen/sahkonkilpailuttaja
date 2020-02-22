@@ -23,7 +23,7 @@ Jotta voisit löytää mahdollisimman edullisen sähkösopimuksen nopeasti, olem
 
 {{< kaikki_tarjoukset >}}
 
-<em>Sähkösopimusta ei kannata tehdä ilman kilpailutusta, sillä myös sähköyhtiöt kilpailevat keskenään ja tarjolla voi olla toinen toistaan edullisempia tarjouksia.</em> Muistathan ottaa huomioon, että sähkölaskuun lisätään aina siirtomaksu, johon ei voi vaikuttaa. Muista myös sähköyhtiöiden tarjouksia selaillessasi, että sopimuksiin sisältyy aina tietty sähkönkulutuskatto. Jos vuosikulutuksesi on esimerkiksi 10 000 kilowattitunnin luokkaa, ei 5000 kilowattituntia tarjoava sähkösopimus riitä tarpeisiisi. Kulutuksesi määrän voit tarkistaa esimerkiksi omasta sähkölaskustasi. Alla pari esimerkkiä sähköyhtiöiden tarjoamista sopimuksista. 
+<em>Sähkösopimusta ei kannata tehdä ilman <a href="https://sahkonkilpailuttaja.fi/kilpailuta-sahko/">sähkön kilpailutusta</a>, sillä myös sähköyhtiöt kilpailevat keskenään ja tarjolla voi olla toinen toistaan edullisempia tarjouksia.</em> Muistathan ottaa huomioon, että sähkölaskuun lisätään aina siirtomaksu, johon ei voi vaikuttaa. Muista myös sähköyhtiöiden tarjouksia selaillessasi, että sopimuksiin sisältyy aina tietty sähkönkulutuskatto. Jos vuosikulutuksesi on esimerkiksi 10 000 kilowattitunnin luokkaa, ei 5000 kilowattituntia tarjoava sähkösopimus riitä tarpeisiisi. Kulutuksesi määrän voit tarkistaa esimerkiksi omasta sähkölaskustasi. Alla pari esimerkkiä sähköyhtiöiden tarjoamista sopimuksista. 
 
 ### Fortumin sähkösopimus tuo hiilidioksidipäästötöntä sähköä
 

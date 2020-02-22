@@ -61,7 +61,7 @@ Muita kampanjan tietoja:
 
 ### 🔌 3,99€ ja 4,99€ sähkötarjoukset?
 
-Kyllä! Käy katsomassa nämä sivut: <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-399/">sähkötarjous 3,99€</a> ja <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-499/">sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja kilpailutus-koneellamme!
+Kyllä! Käy katsomassa nämä sivut: <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-399/">sähkötarjous 3,99€</a> ja <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-499/">sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja meidän <a href="https://sahkonkilpailuttaja.fi/kilpailuta-sahko/">sähkön kilpailutus-koneellamme!</a>
 
 ### 🔌 Mitä tulee ottaa huomioon vertaillessa sähköä?
 
@@ -88,7 +88,7 @@ Voit siis vertailla sähköä seuraavien tarjousten välillä:
     "name": "&#128268 3,99€ ja 4,99€ sähkötarjoukset?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<p>Kyllä! Käy katsomassa nämä sivut: <a href='https://sahkonkilpailuttaja.fi/sahkotarjous-399/'>sähkötarjous 3,99€</a> ja <a href='https://sahkonkilpailuttaja.fi/sahkotarjous-499/'>sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja kilpailutus-koneellamme!</p>"
+      "text": "<p>Kyllä! Käy katsomassa nämä sivut: <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-399/">sähkötarjous 3,99€</a> ja <a href="https://sahkonkilpailuttaja.fi/sahkotarjous-499/">sähkötarjous 4,99€</a>. Vertaile myös muita sähkön hintoja meidän <a href="https://sahkonkilpailuttaja.fi/kilpailuta-sahko/">sähkön kilpailutus-koneellamme!</a></p>"
     }
   },{
     "@type": "Question",

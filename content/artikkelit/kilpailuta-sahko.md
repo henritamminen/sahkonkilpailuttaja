@@ -8,12 +8,12 @@ description: "Kilpailuta sähkö nyt sivullamme ilmaiseksi! Valitse sähkötarjo
 
 # Kilpailuta sähkö – Se kannattaa 
 
-Suurin syy, miksi sähkö kannattaa kilpailuttaa on, että siinä voi oikeasti säästää rahaa. Valitse sähkötarjouksista paras! Voit parhaimmillaa säästää useita satoja euroja vuodessa. Sähkön kilpailutus kannattaa tehdä ainakin vuosittain. Kilpailuta sähkö alla olevien sähköntarjoajien kesken.
+Suurin syy, miksi sähkö kannattaa kilpailuttaa on, että siinä oikeasti säästää rahaa. Valitse sähkötarjouksista paras! Voit säästää satoja euroja vuodessa. Sähkön kilpailutus kannattaa tehdä vuosittain. Kilpailuta sähkö alla olevien sähköntarjoajien kesken.
 
 Uuden ja vanhan laskun erotus syntyy pääosin siitä, minkä hinnan sähkölle olet sopinut aikaisemman sähköntarjoajan kanssa, miten kova tarjonta ja kysyntä sähköllä on ja millaisia tarjouksia sähköntarjoajien kesken on tällä hetkellä.
-Muista siis, kilpailuta sähkö alla olevien tarjoajien kesken.
+Muista siis, <b>kilpailuta sähkö</b> alla olevien tarjoajien kesken.
 
-Ja mitä muuta sitten voit saada tässä samalla? Kun valitset eri tarjoajien väliltä, voit esimerkiksi vaihtaa sähkön alkuperän uusiutuvaksi energialähteeksi ja valita samalla paikallinen tarjoaja. Voit siis sähkön kilpailutuksella periaatteessa tukea omia arvojasi.
+Kun kilpailutat eri sähkötarjousten väliltä, voit esimerkiksi vaihtaa sähkön alkuperän. Voit siis sähkön kilpailutuksella tukea omia arvojasi.
 
 Seuraavaksi tämän hetken parhaat tarjoukset:
 
@@ -55,7 +55,7 @@ Tietoja:
 
 {{< fortum_vakaa_tarjous >}}
 
-Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varmasti tietämään, kuinka paljon sähkösi tulee maksamaan. Heidän tarjouksensa kuuluu parhaimpiin, jos asuntosi sijoittuu hyvin heidän tarjoamaan asunnon koon haarukkaan (Alle 80 neliötä). Voisin suositella, että kilpailuta sähkö siis heillä, jos asuntosi koko on sopiva ja haluat joustavan sopimuksen. Jos asuntosi koko on yli 80 neliötä, kannattaa lähettää Fortumille kysely, millaista pakettia he voivat tässä tapauksessa tarjota.
+Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varmasti tietämään, kuinka paljon sähkösi tulee maksamaan. Heidän tarjouksensa kuuluu parhaimpiin, jos asuntosi sijoittuu hyvin heidän tarjoamaan asunnon koon haarukkaan (Alle 80 neliötä). Jos asuntosi koko on yli 80 neliötä, kannattaa lähettää Fortumille kysely, millaista pakettia he voivat tässä tapauksessa tarjota.
 
 ### 2. Kilpailuta Kotimaan Energian sähkö
 
@@ -63,7 +63,7 @@ Fortumin sähkö-tarjouksien parhaita puolia ovatkin juuri se, että tulet varma
 Tietoja:
 <ul>
 <li>Solmi sopimus ja saat 50€ lahjakortin Giganttiin!</li>
-<li><b>Perusmaksu 3,99 €/kk</b></li>
+<li>Perusmaksu 3,99 €/kk</li>
 <li>Pörssisähkön tuntihinta + sisäänostokulu 0,19 snt/kWh</li>
 <li>Tienaat sopimuksella joka päivä tunnin ilmaista sähköä!</li>
 </ul>
@@ -80,7 +80,7 @@ Tietoja:
 <li>Voit solmia uuden sopimuksen nopeasti, vain muutamassa minuutissa</li>
 <li>Kymmenien tuhansien suomalaisten luottama</li>
 </ul>
-Sähkömittarin avulla voit kilpailuttaa sähkösi erittäin helposti. Tämä on hyvä vaihtoehto, jos et ole varma yllä olevista ja haluat saada vielä vähän laajemman kuvan siitä, mitä eri vaihtoehtoja on olemassa. He listaavat kaikki Suomen sähköntarjoajat ja heidän tarjouksensa. Tämä eroaa meistä siten, että me olemme listanneet Suomen parhaimmat tarjoukset. No, jokainen tavallaan.
+Sähkömittarin avulla voit kilpailuttaa sähkösi erittäin helposti. Tämä on hyvä vaihtoehto, jos et ole varma yllä olevista ja haluat saada vielä vähän laajemman kuvan siitä, mitä eri vaihtoehtoja on olemassa. He listaavat kaikki Suomen sähköntarjoajat ja heidän tarjouksensa.
 
 {{< sahkomittari-tarjous >}}
 
@@ -91,9 +91,9 @@ Sähkön kilpailutus ei ole koskaan ollut näin helppoa, valitse jokin yllä ole
 Kun kilpailutat sähkösi, voit siis vaikuttaa siihen, millä tavoin ostamasi sähkö tuotetaan. Eri sähkön alkuperiä ovat:
 
 <ul>
-<li>Fossiiliset polttoaineet, kuten kivihiili, maakaasu, turve ja öljy. Suomessa näistä kolmesta merkkittävin energianlähde sähköntuotannossa on kivihiili. Sen hyviä puolia ovat edullisuus sekä runsas esiintyminen, mutta toisaalta kivihiilen poltosta syntyy runsaasti epäpuhtauksia ilmaan.</li>
-<li>Uusiutuvat energianlähteet, kuten vesivoima, tuulivoima ja aurinkovoima. Suomessa on noin 200 vesivoimalaa ja yli 500 tuulivoimalaa. Nämä ovat erittäin ympäristöystävällisiä keinoja tuottaa sähköä.</li>
-<li>Ydinvoima. Suomessa on tällä hetkellä kaksi ydinvoimalaa, ja tulevaisuudessa saatamme nähdä vielä muutaman enemmän. Ydinvoima on hyvin ympäristöystävällinen tapa tuottaa sähköä, mutta siihen liittyvät riskit hidastavat ydinvoimalaitosten määrän kasvua.</li>
+<li>Fossiiliset polttoaineet, kuten kivihiili, maakaasu, turve ja öljy. </li>
+<li>Uusiutuvat energianlähteet, kuten vesivoima, tuulivoima ja aurinkovoima. Nämä ovat erittäin ympäristöystävällisiä keinoja tuottaa sähköä.</li>
+<li>Ydinvoima. Ydinvoima on hyvin ympäristöystävällinen tapa tuottaa sähköä, mutta siihen liittyvät riskit hidastavat ydinvoimalaitosten määrän kasvua.</li>
 </ul>
 
 #### Mitä osia sähköstä voit kilpailuttaa?
