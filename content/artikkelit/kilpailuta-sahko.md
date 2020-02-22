@@ -2,7 +2,7 @@
 title: "Kilpailuta Sähkö - Valitse sähkötarjouksista paras"
 date: 2019-12-07T13:49:25+02:00
 draft: false
-description: "Kilpailuta sähkö nyt sivullamme ilmaiseksi! Valitse sähkötarjouksista paras!"
+description: ""
 ---
 {{< sahkomittari-tarjous >}}
 
