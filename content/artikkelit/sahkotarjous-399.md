@@ -23,5 +23,7 @@ Yksinkertainen hinnoittelu:
 <dfn>Tartu siis parhaimpaan tarjoukseen!</dfn>
 
 {{< kotimaan-energia-tarjous >}}
+...Tai
+{{< sahkomittari-tarjous >}}
 
 Kyseinen 3,99€ sähkötarjous on vain muutaman viikon enää voimassa, hyödynnä se ennen kuin on liian myöhäistä!
