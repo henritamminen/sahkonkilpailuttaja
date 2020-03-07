@@ -2,7 +2,6 @@
 title: "Sähkötarjous 3.99€ - Tartu parhaimpaan tarjoukseen!"
 date: 2019-12-07T16:26:09+02:00
 draft: false
-canonical: https://sahkonkilpailuttaja.fi/vertaa-sahko/
 ---
 {{< sahkomittari-tarjous >}}
 # Sähkötarjous 3,99 € – Tartu parhaimpaan tarjoukseen!
