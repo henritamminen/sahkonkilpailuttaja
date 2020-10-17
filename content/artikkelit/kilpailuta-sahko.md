@@ -67,7 +67,7 @@ Tietoja:
 <li>Pörssisähkön tuntihinta + sisäänostokulu 0,19 snt/kWh</li>
 <li>Tienaat sopimuksella joka päivä tunnin ilmaista sähköä!</li>
 </ul>
-Kotimaan Energian sähkö-tarjouksessa mukavaa on, että pääset valitsemaan energianlähteen, josta sähkö on tehty. Heidän tarjouksessa on myös muutamia bonuskohtia, kuten se, että saat joka päivä tunnin ilmaista sähköä ja sopimuksen tehdessäsi saat Giganttiin 50€ lahjakortin! Kotimaan Energialla on myös toinen kilpailutettava sähkötarjous, missä sopimuksen tehdessäsi saat Norwegian Cashpoint-pisteitä. Sen voi löytää <a href="http://http://bit.ly/kme-2" rel="nofollow">täältä.</a>
+Kotimaan Energian sähkö-tarjouksessa mukavaa on, että pääset valitsemaan energianlähteen, josta sähkö on tehty. Heidän tarjouksessa on myös muutamia bonuskohtia, kuten se, että saat joka päivä tunnin ilmaista sähköä ja sopimuksen tehdessäsi saat Giganttiin 50€ lahjakortin! Kotimaan Energialla on myös toinen kilpailutettava sähkötarjous, missä sopimuksen tehdessäsi saat Norwegian Cashpoint-pisteitä. Sen voi löytää <a href="http://http://bit.ly/fortum1" rel="nofollow">täältä.</a>
 
 {{< kotimaan-energia-tarjous >}}
 
