@@ -4,7 +4,7 @@ date: 2019-12-07T13:49:25+02:00
 draft: false
 canonical: https://sahkonkilpailuttaja.fi/kilpailuta-sahko/
 ---
-{{< sahkomittari-tarjous >}}
+
 
 # Kilpailuta sähkö – Se kannattaa 
 
@@ -82,7 +82,7 @@ Tietoja:
 </ul>
 Sähkömittarin avulla voit kilpailuttaa sähkösi erittäin helposti. Tämä on hyvä vaihtoehto, jos et ole varma yllä olevista ja haluat saada vielä vähän laajemman kuvan siitä, mitä eri vaihtoehtoja on olemassa. He listaavat kaikki Suomen sähköntarjoajat ja heidän tarjouksensa.
 
-{{< sahkomittari-tarjous >}}
+
 
 Sähkön kilpailutus ei ole koskaan ollut näin helppoa, valitse jokin yllä olevista sähkön tarjoajista, tutustu heidän tarjontaansa ja tee sähkösopimus!
 
@@ -152,7 +152,7 @@ Jos sinulle tulee ongelmia vastaan prosessin aikana, ole ensiksi yhteydessä sä
 <strong>Tarjoukset:</strong>
 {{< fortum-tarjous >}}
 {{< kotimaan-energia-tarjous >}}
-{{< sahkomittari-tarjous >}}
+
 {{< fortum_vakaa_tarjous >}}
 
 <script type="application/ld+json">

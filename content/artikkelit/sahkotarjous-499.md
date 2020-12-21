@@ -3,7 +3,7 @@ title: "Sähkötarjous 4.99€ - Tartu parhaimpaan tarjoukseen!"
 date: 2019-12-07T16:26:09+02:00
 draft: false
 ---
-{{< sahkomittari-tarjous >}}
+
 # Sähkötarjous 4,99 € – Tartu parhaimpaan tarjoukseen!
 
 Oletko etsimässä <b>4,99 € / kk</b> maksavaa sähkötarjousta? Vaiko sähkötarjousta, jossa sähkön hinta tai perusmaksu on <strong>4,99 snt / kwh</strong>? Tartu parhaimpaan tarjoukseen alta!

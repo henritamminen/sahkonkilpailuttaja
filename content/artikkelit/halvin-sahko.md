@@ -4,7 +4,7 @@ date: 2019-12-23T16:55:53+02:00
 draft: false
 description: ""
 ---
-{{< sahkomittari-tarjous >}}
+
 
 # Halvin sähkö 2020
 

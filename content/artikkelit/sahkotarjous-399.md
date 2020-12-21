@@ -4,7 +4,7 @@ date: 2019-12-07T16:26:09+02:00
 draft: false
 canonical: https://sahkonkilpailuttaja.fi/vertaa-sahko/
 ---
-{{< sahkomittari-tarjous >}}
+
 # Sähkötarjous 3,99 € – Tartu parhaimpaan tarjoukseen!
 
 Oletko etsimässä <b>3,99 € / kk</b> maksavaa sähkötarjousta? Vaiko sähkötarjousta, jossa sähkön hinta tai perusmaksu on <strong>3,99 snt / kwh</strong>? Tartu parhaimpaan tarjoukseen alta!
@@ -25,6 +25,6 @@ Yksinkertainen hinnoittelu:
 
 {{< kotimaan-energia-tarjous >}}
 ...Tai
-{{< sahkomittari-tarjous >}}
+
 
 Kyseinen 3,99€ sähkötarjous on vain muutaman viikon enää voimassa, hyödynnä se ennen kuin on liian myöhäistä!

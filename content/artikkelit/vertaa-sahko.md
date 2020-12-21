@@ -4,7 +4,7 @@ date: 2019-12-07T15:51:34+02:00
 draft: false
 description: "Vertaa sähkö - Uusi sähkösopimus hetkessä!"
 ---
-{{< sahkomittari-tarjous >}}
+
 # Vertaa sähkö - Uusi sähkösopimus hetkessä!
 
 Vertaamalla sähkösi useiden eri toimijoiden välillä voit säästää sähkön hinnassa paljon. Vertaa sähkö ja saa uusi sähkösopimus hetkessä!
@@ -77,7 +77,7 @@ Voit siis vertailla sähköä seuraavien tarjousten välillä:
 
 {{< fortum-tarjous >}}
 {{< kotimaan-energia-tarjous >}}
-{{< sahkomittari-tarjous >}}
+
 
 <script type="application/ld+json">
 {
